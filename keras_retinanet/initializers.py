@@ -15,7 +15,7 @@ limitations under the License.
 """
 
 import keras
-import tensroflow as tf
+import tensorflow as tf
 import numpy as np
 import math
 
